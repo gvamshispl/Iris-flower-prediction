@@ -18,4 +18,4 @@ The model is trained using the classic Iris dataset and deployed as a simple web
 - Streamlit
 - Joblib
 
----
+project link:https://huggingface.co/spaces/gvamshispl/irisflowerprediction
